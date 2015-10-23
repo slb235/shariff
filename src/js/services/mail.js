@@ -14,7 +14,7 @@ module.exports = function(shariff) {
         popup: false,
         shareText: 'mail',
         name: 'mail',
-        faName: 'fa-envelope',
+        faName: 'envelope',
         title: {
             'bg': 'Изпрати по имейл',
             'da': 'Sende via e-mail',

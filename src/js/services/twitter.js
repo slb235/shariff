@@ -40,7 +40,7 @@ module.exports = function(shariff) {
         popup: true,
         shareText: 'tweet',
         name: 'twitter',
-        faName: 'fa-twitter',
+        faName: 'twitter',
         title: {
             'bg': 'Сподели в Twitter',
             'da': 'Del på Twitter',
