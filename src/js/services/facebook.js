@@ -7,8 +7,8 @@ module.exports = function(shariff) {
         shareText: {
             'bg': 'cподеляне',
             'da': 'del',
-            'de': 'teilen',
-            'en': 'share',
+            'de': 'Teilen',
+            'en': 'Share',
             'es': 'compartir',
             'fi': 'Jaa',
             'fr': 'partager',
